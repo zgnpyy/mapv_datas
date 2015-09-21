@@ -1,1 +1,1 @@
-{"default":{"layers":{"ietl0cyeofdje":{"options":{"type":"heatmap","option":{"size":"500","max":"100","maxOpacity":"0.8","type":"rect","ietl0cyeofdje":"确定"},"layerName":"ietl0cyeofdje"},"data":"data/ietl0cyeofdje","sha":"fefeb55e4e39d5c7cbd4588b13f8d26309601921"}}}}
+{"default":{"layers":{"ietl0cyeofdje":{"options":{"type":"simple","option":{"size":"1.5","fillStyle":"rgba(239, 168, 0, 0.8)","ietl0cyeofdje":"确定"},"layerName":"ietl0cyeofdje"},"data":"data/ietl0cyeofdje","sha":"fefeb55e4e39d5c7cbd4588b13f8d26309601921"}}}}
